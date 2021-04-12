@@ -5,6 +5,5 @@ matplotlib
 tqdm
 pyyaml
 pandas
-pycuda
 seaborn
 sklearn
